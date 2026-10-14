@@ -1,4 +1,4 @@
 interface:
   display_name: "Concord"
-  short_description: "按用户指定的角色、模型和子代理额度协调多会话分工、实现、验收与恢复"
-  default_prompt: "使用 $concord，沿用或建立我指定的角色、模型和子代理额度，核对当前任务、授权与交接后组织协作。"
+  short_description: "按用户指定的角色与模型协调多会话分工、实现、验收与恢复"
+  default_prompt: "使用 $concord，沿用或建立我指定的角色与模型，核对当前任务、授权与交接后组织协作。"
