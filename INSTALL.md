@@ -74,6 +74,7 @@ concord/
 │   └── openai.yaml
 └── references/
     ├── setup.md
+    ├── binding.md
     ├── orchestration.md
     ├── recovery.md
     ├── templates.md
